@@ -1,0 +1,6 @@
+amazon | akku@gmail.com | 12345amazon | akku@gmail.com | 123flipkart | akku@gmail.com | mumbai
+amazon | akku@gmail.com | piku
+ | akku@gmail.com | 
+amzon | akku@gmail.com | asdfg
+facebook | akku@gmail.com | akku@15
+amazon | akku@gmail.com | akku12345@
